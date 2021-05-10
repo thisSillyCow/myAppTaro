@@ -116,6 +116,11 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
+"@tarojs/components-qa@^1.3.3":
+  version "1.3.46"
+  resolved "https://registry.yarnpkg.com/@tarojs/components-qa/-/components-qa-1.3.46.tgz#41a9945317ed855e23a4938b2a2393e47a8c05ac"
+  integrity sha512-r4uSuFBwRoMbe2VEMbCslsS5sLVCFT+je/s4q+ISHb1XLIjaRrbJnndFkbf9vmp552uMhN/Dyez6dk8C4FaOWQ==
+
 "@tarojs/components@1.3.3":
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/@tarojs/components/-/components-1.3.3.tgz#614c5cbc796971021e0737705564f54d5caa6b71"
@@ -3788,9 +3793,9 @@ home-or-tmp@^2.0.0:
     os-tmpdir "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
