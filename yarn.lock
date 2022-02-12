@@ -116,6 +116,11 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
+"@tarojs/components-qa@^1.3.3":
+  version "1.3.46"
+  resolved "https://registry.yarnpkg.com/@tarojs/components-qa/-/components-qa-1.3.46.tgz#41a9945317ed855e23a4938b2a2393e47a8c05ac"
+  integrity sha512-r4uSuFBwRoMbe2VEMbCslsS5sLVCFT+je/s4q+ISHb1XLIjaRrbJnndFkbf9vmp552uMhN/Dyez6dk8C4FaOWQ==
+
 "@tarojs/components@1.3.3":
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/@tarojs/components/-/components-1.3.3.tgz#614c5cbc796971021e0737705564f54d5caa6b71"
@@ -3394,11 +3399,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.7.0.tgz#489ebc198dc0e7f64167bd23b03c4c19b5784c76"
-  integrity sha512-m/pZQy4Gj287eNy94nivy5wchN3Kp+Q5WgUPNy5lJSZ3sgkVKSYV/ZChMAQVIgx1SqfZ2zBZtPA2YlXIWxxJOQ==
-  dependencies:
-    debug "^3.2.6"
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^0.1.3:
   version "0.1.8"
