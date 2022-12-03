@@ -116,6 +116,11 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
+"@tarojs/components-qa@^1.3.3":
+  version "1.3.46"
+  resolved "https://registry.yarnpkg.com/@tarojs/components-qa/-/components-qa-1.3.46.tgz#41a9945317ed855e23a4938b2a2393e47a8c05ac"
+  integrity sha512-r4uSuFBwRoMbe2VEMbCslsS5sLVCFT+je/s4q+ISHb1XLIjaRrbJnndFkbf9vmp552uMhN/Dyez6dk8C4FaOWQ==
+
 "@tarojs/components@1.3.3":
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/@tarojs/components/-/components-1.3.3.tgz#614c5cbc796971021e0737705564f54d5caa6b71"
@@ -2454,9 +2459,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.0.1"
